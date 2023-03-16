@@ -1,0 +1,16 @@
+.background{
+    background-color: #262626;
+    height: 100vh;
+}
+
+.banner{
+    background-color: #4b5563;
+    padding-top: 30px;
+    height: 15vh;
+    font-size: 70px;
+    padding: 10px;
+}
+
+.padBanner{
+    padding-top: 100px;
+}

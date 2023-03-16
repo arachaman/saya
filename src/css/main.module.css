@@ -20,8 +20,12 @@ img{
     
 }
 
-/* .container{
-    display: flex !important;
-    flex-wrap: nowrap !important;
-    overflow-x: auto !important;
-} */
+.hello{
+    align-items: center;
+}
+
+.backg{
+    height: 60vh;
+    width: 50%;
+    background-color: #E5D9B6;
+}
